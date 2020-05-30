@@ -1,12 +1,11 @@
 # Table of contents
 
-* [Основы](README.md)
-
-## Фотостиль
-
-* [Рекомендации](fotostil/rekomendacii.md)
-
-## Основы стиля
-
-* [Untitled](osnovy-stilya/untitled.md)
+* [Основы стиля](README.md)
+* [Фотостиль](fotostil.md)
+* [Рекомендации](rekomendacii.md)
+* [Наружная реклама](naruzhnaya-reklama/README.md)
+  * [Билборд](naruzhnaya-reklama/bilbord.md)
+  * [Ситиборд](naruzhnaya-reklama/sitibord.md)
+  * [Ситиформат](naruzhnaya-reklama/sitiformat.md)
+  * [Пиллар](naruzhnaya-reklama/pillar.md)
 
