@@ -1,9 +1,9 @@
 # Фотостиль
 
-* **Город** — рабочее пространство водителя.
-* **Близкие** — составляющая, которая движет водителями выходить на линию и зарабатывать деньги. Это не про бизнес, это про эмоции.
-* **Дорога** — постоянная динамика, чувство свободы.
-* **Преданность делу** — любовь к непростому труду.
+* ** City ** - the working space of the driver.
+* ** Close ** - a component that drives drivers. This is not about business, it's about emotions.
+* ** Road ** - constant dynamics, a sense of freedom.
+* ** Devotion ** - love for difficult work.
 
 ![](../.gitbook/assets/upload-e7ce597d-27fd-4c69-9983-7ee3392bee2e-1-.jpg)
 
